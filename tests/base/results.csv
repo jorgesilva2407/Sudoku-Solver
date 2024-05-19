@@ -1,0 +1,16 @@
+difficulty,algorithm,iterations,time
+mid1,B,4631,44
+mid1,I,146470,60
+mid1,U,474,6
+mid1,A,51,1
+mid1,G,51,1
+mid2,B,27947,269
+mid2,I,864795,364
+mid2,U,26695,336
+mid2,A,126,3
+mid2,G,262,6
+hard,B,2068780,20029
+hard,I,64395813,27077
+hard,U,2019282,25556
+hard,A,8017,229
+hard,G,17136,445
